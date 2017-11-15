@@ -1,4 +1,4 @@
-# pharmacy
+# Pharmacy desktop application
 Enterprise desktop application for a pharmacy
 
 User friendly interface that enables fast data storing and manipulation. 
